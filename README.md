@@ -4,6 +4,8 @@ This repository contains the initial stage of a student project to build a clone
 
 ---
 
+this repo is forked, and i am going to implement the mysql as backend using orm
+
 <center><h3>Repository Contents by Project Task</h3> </center>
 
 | Tasks | Files | Description |
